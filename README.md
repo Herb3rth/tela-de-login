@@ -1,6 +1,6 @@
 # Tela de login responsiva
 
-Para a responsividade usei flexbox e media query;
+Para a responsividade usei flexbox e media queries;
 
 A stack usada foi apenas html e css;
 
